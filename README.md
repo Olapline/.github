@@ -9,7 +9,7 @@
 <h3 align="center">PlanningAnalytics.NET</h3>
 
   <p align="center">
-    This Interface wraps the odata Rest Interface of TM1 in a workable Project in C#.NET.
+    This interface wraps the odata REST interface of TM1 in a workable project in C#.NET.
     <br />
     <a href="https://github.com/olapline/PlanningAnalytics"><strong>Explore the docs »</strong></a>
     <br />
